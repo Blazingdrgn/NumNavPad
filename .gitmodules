@@ -10,3 +10,9 @@
 [submodule "NumNavPad/keebio-components"]
 	path = NumNavPad/keebio-components
 	url = https://github.com/keebio/keebio-components.git
+[submodule "NumNavPad/kicad_lib_tmk"]
+	path = NumNavPad/kicad_lib_tmk
+	url = https://github.com/tmk/kicad_lib_tmk.git
+[submodule "NumNavPad/keyboard_parts.pretty"]
+	path = NumNavPad/keyboard_parts.pretty
+	url = https://github.com/tmk/keyboard_parts.pretty.git
