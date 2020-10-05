@@ -7,3 +7,6 @@
 [submodule "NumNavPad/Keebio-Parts.pretty"]
 	path = NumNavPad/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "NumNavPad/keebio-components"]
+	path = NumNavPad/keebio-components
+	url = https://github.com/keebio/keebio-components.git
