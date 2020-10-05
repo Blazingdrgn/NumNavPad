@@ -835,29 +835,4 @@ F 3 "" H 1925 3275 60  0001 C CNN
 	1    2550 3300
 	1    0    0    -1  
 $EndComp
-$Comp
-L keebio:Elite-C U?
-U 1 1 5F86DC93
-P 5800 1800
-F 0 "U?" H 5800 2637 60  0000 C CNN
-F 1 "Elite-C" H 5800 2531 60  0000 C CNN
-F 2 "" V 6850 -700 60  0001 C CNN
-F 3 "" V 6850 -700 60  0001 C CNN
-	1    5800 1800
-	1    0    0    -1  
-$EndComp
-Text GLabel 5100 2350 0    50   Input ~ 0
-Row0
-Text GLabel 5100 2250 0    50   Input ~ 0
-Row1
-Text GLabel 5100 2150 0    50   Input ~ 0
-Row2
-Text GLabel 5100 2050 0    50   Input ~ 0
-Row3
-Text GLabel 5100 1950 0    50   Input ~ 0
-Row4
-Text GLabel 6500 2350 2    50   Input ~ 0
-Col0
-Text GLabel 6500 2250 2    50   Input ~ 0
-Col1
 $EndSCHEMATC
